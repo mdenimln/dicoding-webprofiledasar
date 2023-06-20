@@ -1,0 +1,14 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: #00a2c6;
+}
+h3,h2{
+    color: #00a2c6;
+}
+footer{
+    padding: 20px;
+    background-color: #00a2c6;
+    color: white;
+}
