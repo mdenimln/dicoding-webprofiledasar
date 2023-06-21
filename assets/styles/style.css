@@ -7,6 +7,9 @@ body{
     padding: 0;
     margin: 0;
 }
+header{
+    display: inline;
+}
 main{
     padding: 20px 30px;
     overflow: auto;
@@ -17,6 +20,8 @@ h3,h2{
 nav{
     background-color: #00a2c6;
     padding: 5px;
+    position: sticky;
+    top: 0;
 }
 nav li{
     display: inline;
